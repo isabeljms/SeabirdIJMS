@@ -22,5 +22,5 @@ Again, I downloaded 12 floating point rasters in tiff format from January to Dec
  
 
 NASA OCEAN COLOUR WEB Diffuse attenuation coefficient for downwelling irradiance at 490 nm (Kd_490).
-https://oceancolor.gsfc.nasa.gov/atbd/kd_490/ 
+https://oceancolor.gsfc.nasa.gov/l3/
 This is my turbidity Index. I downloaded 12 level-3 datasets from January to December 2019 at 4km resolution
