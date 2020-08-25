@@ -1,6 +1,8 @@
 # SeabirdIJMS
 Respository for a Masters Thesis 
 
+• 'Thesis_Soane.R' contains all the code I used to perform GIS, create plots and find values for my tables
+
 • 'SoaneDepthFinal.csv' is the main dataset which includes all references and variables in my statistical modelling 
 
 • 'Publishdate.csv' is a list of the years the sources for diving depth/foraging observations were published. It is only used for Figure 1 
